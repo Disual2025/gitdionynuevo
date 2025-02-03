@@ -1,4 +1,4 @@
-frutas = {"apple", "banana", "cherry"}
+frutas = {"orange", "strawberry", "apple"," lemon"}
 print(frutas)
 print(len(frutas))
 set1 = {"apple", "banana", "cherry","mango"}
